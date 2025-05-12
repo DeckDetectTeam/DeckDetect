@@ -9,7 +9,7 @@ Para ejecutar el código es necesario tener instalado el intérprete de **Python
 A continuación, se procederá a la descarga de **Jupyter Notebook** para la visualización del notebook compartido junto con las demás librerías que se usan en la implementación. Para ello, es necesario ejecutar el siguiente comando en una terminal:
 
 ```python
-pip install jupyter matplotlib opencv-python numpy
+pip install jupyter matplotlib opencv-python numpy glob
 ```
 ## **Ejecutar el notebook**
 Por último, debemos de ejecutar Jupyter Notebook para poder visualizar y ejecutar el código. Ejecutaremos el siguiente comando en una terminal:
